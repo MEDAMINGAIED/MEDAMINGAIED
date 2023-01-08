@@ -8,7 +8,7 @@
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **sketching**.
 
-✈️ I love **traveling** too. I have been on solo trips to **Canada** in _2022_.
+✈️ I love **traveling** too. I have been on solo trips to many places in _2022_.
 
 ## 🏅 Achievements
 -   🥇 **Winner of Coding Competition in VB.net** at _ESSECT_ (April 2017)
