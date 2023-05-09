@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Mohamed Amin Gaied Software engineer, a passionate **Full Stack Developer** (specializing in **Web Applications**). I graduated from SESAME University in 2022 with a Master degree focused in  **Computer Science & Engineering**.
+🎓 I am Mohamed Amin Gaied Software engineer, a passionate **Full Stack Developer** (specializing in **Web Applications**). Currently studying softaware engineering in software developpement in Sherbrooke University in CanadaL I'm also graduated from SESAME University in 2022 with a Master degree focused in  **Computer Science & Engineering**.
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several academic university projects. I am really enthusiastic about learning new technology. In 2021, I learned **React**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Semantic web and Ontology**.
 
